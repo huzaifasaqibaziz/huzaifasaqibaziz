@@ -139,12 +139,11 @@ I go where the hard problems are: underwriting docs, warehouse chaos, banking UX
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=huzaifasaqibaziz&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=true&bg_color=0c0b0a&title_color=ff8a3d&icon_color=ff8a3d&text_color=d4d0c8&ring_color=ff8a3d" alt="GitHub stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huzaifasaqibaziz&layout=compact&theme=dark&hide_border=true&bg_color=0c0b0a&title_color=ff8a3d&text_color=d4d0c8" alt="Top languages" />
-
-<br/>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=huzaifasaqibaziz&theme=dark&hide_border=true&background=0c0b0a&ring=ff8a3d&fire=ff8a3d&currStreakLabel=ff8a3d" alt="GitHub streak" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=huzaifasaqibaziz&theme=react-dark&bg_color=0c0b0a&color=ff8a3d&line=ff8a3d&point=ffb070&area=true&hide_border=true" alt="Contribution activity graph" width="100%" />
 
 </div>
 
