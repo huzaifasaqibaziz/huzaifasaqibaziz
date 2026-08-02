@@ -139,11 +139,12 @@ I go where the hard problems are: underwriting docs, warehouse chaos, banking UX
 
 <div align="center">
 
+<img height="180" src="./profile/stats.svg" alt="GitHub stats" />
+<img height="180" src="./profile/top-langs.svg" alt="Top languages" />
+
+<br/>
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=huzaifasaqibaziz&theme=dark&hide_border=true&background=0c0b0a&ring=ff8a3d&fire=ff8a3d&currStreakLabel=ff8a3d" alt="GitHub streak" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=huzaifasaqibaziz&theme=react-dark&bg_color=0c0b0a&color=ff8a3d&line=ff8a3d&point=ffb070&area=true&hide_border=true" alt="Contribution activity graph" width="100%" />
 
 </div>
 
